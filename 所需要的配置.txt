@@ -1,0 +1,15 @@
+模版消息的标题就是你推送时显示的标题
+模版消息内容复制下方的代码
+
+{{date.DATA}}
+🌍地区：{{region.DATA}}
+⛅天气：{{weather.DATA}}
+🌡️气温：{{temp.DATA}}
+👨体感温度：{{feelsLike.DATA}}
+👀能见度：{{vis.DATA}}
+🌧️当前小时累计降水量：{{precip.DATA}}
+💨风向：{{wind_dir.DATA}}
+☄️大气压强：{{pressure.DATA}}
+{{birthday1.DATA}} 
+{{birthday2.DATA}}
+今天是我门相识的第{{love_day.DATA}}天
